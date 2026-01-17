@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=aws-lambda&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20EFS-FF9900?logo=amazon-efs&logoColor=white" />
 </p>
----
 
 ## Qué busco construir (resumen)
 Hago que **Kubernetes y la infraestructura ML no sean cajas negras**: que la gente pueda montar pipelines distribuidos (Spark, Ray, Kafka, Airflow) en infra económica y entendible — por ejemplo con **Kube-Hetzner** — optimizando costos, autoscaling y minimizando pods ociosos. Mi objetivo: plataformas ML reproducibles y accesibles que cualquiera pueda usar sin depender 100% de cloud managed.
@@ -34,7 +33,7 @@ Hago que **Kubernetes y la infraestructura ML no sean cajas negras**: que la gen
 ---
 
 ## Principios y estilo de trabajo
-- **No me gustan los notebooks como final**: los uso solo para prototipar. El resultado debe ser código modular, claro y deployable (Docker + K8s).  
+- **No me gustan los notebooks como final**: los uso solo para prototipar. El resultado debe ser código modular, claro y deployable (Docker + K8s + OOP).  
 - **Automatizo para evitar trabajo manual**: prefiero invertir tiempo en automatizaciones que reduzcan tareas repetitivas.  
 - **Transparencia infra**: quiero ver y controlar lo que hay “detrás” (scheduling, CRDs, recursos).  
 - **Cost & observability first**: medir consumo por componente (Spark, Ray, Kafka), ahorrar GPU/CPU y documentar decisiones.  
@@ -62,7 +61,7 @@ Hago que **Kubernetes y la infraestructura ML no sean cajas negras**: que la gen
 ---
 
 ## Honestidad y crecimiento
-- Estoy **mejorando en seguridad** (trabajando activamente en ello).  
+- Estoy **mejorando en seguridad como VPCs** (trabajando activamente en ello). Uso Github Secrets e IAM minimos.
 - Soy directo, lógico y no me gusta afirmar cosas sin sustento. Prefiero demostrar con código, métricas y postmortems.
 
 ---
@@ -79,7 +78,3 @@ Hago que **Kubernetes y la infraestructura ML no sean cajas negras**: que la gen
 [![Email](https://img.shields.io/badge/Email-projorge.15%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:projorge.15@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge%20Manzanares%20Cortés-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-manzanares-cortes-142778355)
 [![Instagram](https://img.shields.io/badge/Instagram-takenking978-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/takenking978?igsh=MXNiNnF6NWV3ZzEwOA==)
-
----
-
-Si quieres, lo convierto en una versión **para recruiters** (muy corta con keywords) o en una **landing** con links a repos específicos y métricas cuantificadas (ej.: ahorro en GPU hours, uptime, número de modelos versionados).  
