@@ -1,4 +1,7 @@
 # Jorge Ángel Manzanares Cortés  
+
+---
+
 ## Stack (Frameworks que he usado en proyectos)
 <p align="center">
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white" />
@@ -23,7 +26,11 @@
   <img src="https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B?logo=amazon-api-gateway&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=aws-lambda&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20EFS-FF9900?logo=amazon-efs&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-4B9CD3?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-8B5CF6?logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6F61?logo=python&logoColor=white" />
 </p>
+
 
 ## Qué busco construir
 Hago que **Kubernetes y la infraestructura ML no sean cajas negras**: que la gente pueda montar pipelines distribuidos (Spark, Ray, Kafka, Airflow) en infra económica y entendible — por ejemplo con **Kube-Hetzner** — optimizando costos, autoscaling y minimizando pods ociosos. Mi objetivo: plataformas ML reproducibles y accesibles que cualquiera pueda usar sin depender 100% de cloud managed.
