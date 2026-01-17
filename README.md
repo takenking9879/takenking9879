@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Amazon%20EFS-FF9900?logo=amazon-efs&logoColor=white" />
 </p>
 
-## Qué busco construir (resumen)
+## Qué busco construir
 Hago que **Kubernetes y la infraestructura ML no sean cajas negras**: que la gente pueda montar pipelines distribuidos (Spark, Ray, Kafka, Airflow) en infra económica y entendible — por ejemplo con **Kube-Hetzner** — optimizando costos, autoscaling y minimizando pods ociosos. Mi objetivo: plataformas ML reproducibles y accesibles que cualquiera pueda usar sin depender 100% de cloud managed.
 
 ---
@@ -39,7 +39,7 @@ Hago que **Kubernetes y la infraestructura ML no sean cajas negras**: que la gen
 
 ---
 
-## Fortalezas técnicas (breve)
+## Fortalezas técnicas
 - CT / CD, feature engineering distribuido, HPO práctico.  
 - Spark on Kubernetes, KubeRay para entrenamiento distribuido.  
 - Airflow + operators K8s, Kafka (Strimzi / Confluent).  
