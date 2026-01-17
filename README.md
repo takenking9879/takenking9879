@@ -1,6 +1,4 @@
 # Jorge Ángel Manzanares Cortés  
-**Aspirando a convertirme en AI / ML Platform / MLOps Engineer (nivel M2)**
-
 ## Stack (Frameworks que he usado en proyectos)
 <p align="center">
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white" />
@@ -26,6 +24,8 @@
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=aws-lambda&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20EFS-FF9900?logo=amazon-efs&logoColor=white" />
 </p>
+
+**Aspirando a convertirme en AI / ML Platform / MLOps Engineer (nivel M2)**
 
 ## Qué busco construir (resumen)
 Hago que **Kubernetes y la infraestructura ML no sean cajas negras**: que la gente pueda montar pipelines distribuidos (Spark, Ray, Kafka, Airflow) en infra económica y entendible — por ejemplo con **Kube-Hetzner** — optimizando costos, autoscaling y minimizando pods ociosos. Mi objetivo: plataformas ML reproducibles y accesibles que cualquiera pueda usar sin depender 100% de cloud managed.
