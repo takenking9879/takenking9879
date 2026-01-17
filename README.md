@@ -1,16 +1,74 @@
-## Hi there 👋
+# Jorge Ángel Manzanares Cortés  
+**Aspirando a convertirme en AI / ML Platform / MLOps Engineer (nivel M2)**
 
-<!--
-**takenking9879/takenking9879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white)
+![KubeRay](https://img.shields.io/badge/KubeRay-000000?logo=ray-project&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-0173B2?logo=apache-airflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-00A0B0?logo=mlflow&logoColor=white)
+![Evidently](https://img.shields.io/badge/Evidently-007ACC)
+![Prometheus](https://img.shields.io/badge/Prometheus-263238?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-1C7BE5)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Hetzner Cloud](https://img.shields.io/badge/Hetzner%20Cloud-0F0F0F)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Qué busco construir (resumen)
+Hago que **Kubernetes y la infraestructura ML no sean cajas negras**: que la gente pueda montar pipelines distribuidos (Spark, Ray, Kafka, Airflow) en infra económica y entendible — por ejemplo con **Kube-Hetzner** — optimizando costos, autoscaling y minimizando pods ociosos. Mi objetivo: plataformas ML reproducibles y accesibles que cualquiera pueda usar sin depender 100% de cloud managed.
+
+---
+
+## Principios y estilo de trabajo
+- **No me gustan los notebooks como final**: los uso solo para prototipar. El resultado debe ser código modular, claro y deployable (Docker + K8s).  
+- **Automatizo para evitar trabajo manual**: prefiero invertir tiempo en automatizaciones que reduzcan tareas repetitivas.  
+- **Transparencia infra**: quiero ver y controlar lo que hay “detrás” (scheduling, CRDs, recursos).  
+- **Cost & observability first**: medir consumo por componente (Spark, Ray, Kafka), ahorrar GPU/CPU y documentar decisiones.  
+- **Código explicable y modular**: cada módulo con responsabilidad clara, fácil de leer y mantener.
+
+---
+
+## En qué estoy trabajando / qué pretendo demostrar
+- Plataformas ML auto-escalables y de bajo coste (Hetzner / self-managed) que puedan migrarse a EKS/GKE/AKS.  
+- Observabilidad fina: Prometheus/Grafana para métricas por componente (p. ej. consumo RAM/CPU de jobs Spark, KubeRay).  
+- Pipelines reproducibles: DVC, MLflow, Terraform, CI/CD con GitHub Actions.  
+- Hacer accesible Spark distribuido en Kubernetes y mostrar cómo producir, procesar y servir con Kafka sin usar notebooks todo el tiempo.
+
+---
+
+## Fortalezas técnicas (breve)
+- CT / CD, feature engineering distribuido, HPO práctico.  
+- Spark on Kubernetes, KubeRay para entrenamiento distribuido.  
+- Airflow + operators K8s, Kafka (Strimzi / Confluent).  
+- Observabilidad: Prometheus, Grafana, Evidently (ML monitoring).  
+- Infra reproducible: Terraform, Kubecost, Cluster Autoscaler, HPA.  
+- Versionado y tracking: DVC + MLflow.  
+- CI/CD: GitHub Actions; GitOps opcional (ArgoCD).
+
+---
+
+## Honestidad y crecimiento
+- Estoy **mejorando en seguridad** (trabajando activamente en ello).  
+- Soy directo, lógico y no me gusta afirmar cosas sin sustento. Prefiero demostrar con código, métricas y postmortems.
+
+---
+
+## Personal
+- Soy mexicano, del Estado de México.  
+- Aprendo extremadamente rápido y disfruto desafíos técnicos complejos.  
+- Me interesa Topología Algebraica (sí, suena raro en ML, pero aporta rigor y pensamiento crítico).
+
+---
+
+## Contacto
+**Email:** projorge.15@gmail.com  
+**LinkedIn:** www.linkedin.com/in/jorge-manzanares-cortes-142778355
+**Instagram:** https://www.instagram.com/takenking978?igsh=MXNiNnF6NWV3ZzEwOA==
+
+---
+
+Si quieres, lo convierto en una versión **para recruiters** (muy corta con keywords) o en una **landing** con links a repos específicos y métricas cuantificadas (ej.: ahorro en GPU hours, uptime, número de modelos versionados).  
