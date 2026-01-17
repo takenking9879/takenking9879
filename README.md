@@ -65,9 +65,10 @@ Hago que **Kubernetes y la infraestructura ML no sean cajas negras**: que la gen
 ---
 
 ## Contacto
-**Email:** projorge.15@gmail.com  
-**LinkedIn:** www.linkedin.com/in/jorge-manzanares-cortes-142778355
-**Instagram:** https://www.instagram.com/takenking978?igsh=MXNiNnF6NWV3ZzEwOA==
+
+[![Email](https://img.shields.io/badge/Email-projorge.15%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:projorge.15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge%20Manzanares%20Cortés-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-manzanares-cortes-142778355)
+[![Instagram](https://img.shields.io/badge/Instagram-takenking978-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/takenking978?igsh=MXNiNnF6NWV3ZzEwOA==)
 
 ---
 
