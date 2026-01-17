@@ -25,8 +25,6 @@
   <img src="https://img.shields.io/badge/Amazon%20EFS-FF9900?logo=amazon-efs&logoColor=white" />
 </p>
 
-**Aspirando a convertirme en AI / ML Platform / MLOps Engineer (nivel M2)**
-
 ## Qué busco construir (resumen)
 Hago que **Kubernetes y la infraestructura ML no sean cajas negras**: que la gente pueda montar pipelines distribuidos (Spark, Ray, Kafka, Airflow) en infra económica y entendible — por ejemplo con **Kube-Hetzner** — optimizando costos, autoscaling y minimizando pods ociosos. Mi objetivo: plataformas ML reproducibles y accesibles que cualquiera pueda usar sin depender 100% de cloud managed.
 
@@ -41,14 +39,6 @@ Hago que **Kubernetes y la infraestructura ML no sean cajas negras**: que la gen
 
 ---
 
-## En qué estoy trabajando / qué pretendo demostrar
-- Plataformas ML auto-escalables y de bajo coste (Hetzner / self-managed) que puedan migrarse a EKS/GKE/AKS.  
-- Observabilidad fina: Prometheus/Grafana para métricas por componente (p. ej. consumo RAM/CPU de jobs Spark, KubeRay).  
-- Pipelines reproducibles: DVC, MLflow, Terraform, CI/CD con GitHub Actions.  
-- Hacer accesible Spark distribuido en Kubernetes y mostrar cómo producir, procesar y servir con Kafka sin usar notebooks todo el tiempo.
-
----
-
 ## Fortalezas técnicas (breve)
 - CT / CD, feature engineering distribuido, HPO práctico.  
 - Spark on Kubernetes, KubeRay para entrenamiento distribuido.  
@@ -57,12 +47,6 @@ Hago que **Kubernetes y la infraestructura ML no sean cajas negras**: que la gen
 - Infra reproducible: Terraform, Kubecost, Cluster Autoscaler, HPA.  
 - Versionado y tracking: DVC + MLflow.  
 - CI/CD: GitHub Actions; GitOps opcional (ArgoCD).
-
----
-
-## Honestidad y crecimiento
-- Estoy **mejorando en seguridad como VPCs** (trabajando activamente en ello). Uso Github Secrets e IAM minimos.
-- Soy directo, lógico y no me gusta afirmar cosas sin sustento. Prefiero demostrar con código, métricas y postmortems.
 
 ---
 
