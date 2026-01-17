@@ -1,21 +1,31 @@
 # Jorge Ángel Manzanares Cortés  
 **Aspirando a convertirme en AI / ML Platform / MLOps Engineer (nivel M2)**
 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white)
-![KubeRay](https://img.shields.io/badge/KubeRay-000000?logo=ray-project&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-0173B2?logo=apache-airflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-00A0B0?logo=mlflow&logoColor=white)
-![Evidently](https://img.shields.io/badge/Evidently-007ACC)
-![Prometheus](https://img.shields.io/badge/Prometheus-263238?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-1C7BE5)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Hetzner Cloud](https://img.shields.io/badge/Hetzner%20Cloud-0F0F0F)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
-
+## Stack (Frameworks que he usado en proyectos)
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/KubeRay-000000?logo=ray-project&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-0173B2?logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-00A0B0?logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Evidently-007ACC" />
+  <img src="https://img.shields.io/badge/Prometheus-263238?logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/DVC-1C7BE5" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hetzner%20Cloud-0F0F0F" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?logo=amazon-eks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazon-ec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20CloudFront-8C4FFF?logo=amazon-cloudfront&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B?logo=amazon-api-gateway&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=aws-lambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20EFS-FF9900?logo=amazon-efs&logoColor=white" />
+</p>
 ---
 
 ## Qué busco construir (resumen)
